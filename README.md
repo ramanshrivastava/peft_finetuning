@@ -1,8 +1,8 @@
-# Fine-tuning GPT-2 to Infer Emotion Class of Twitter Messages
+# Fine-tuning GPT-2 using LORA to infer Emotion class of Twitter messages
 
-This project involves fine-tuning the GPT-2 model to classify emotions in tweets. The process includes loading a pre-trained model, performing parameter-efficient fine-tuning (PEFT) using LoRA, evaluating performance, and comparing the foundation model with the fine-tuned model.
+Fine-tuning the GPT-2 model to classify emotions in tweets. The process includes loading a pre-trained foundation model, performing parameter-efficient fine-tuning (PEFT) using LoRA, evaluating performance, and comparing the foundation model with the fine-tuned model.
 
-## Notes
+## Choices
 
 - **Model**:
   - GPT-2 is used because it is compatible with the sequence classification task and compatible with LoRA.
