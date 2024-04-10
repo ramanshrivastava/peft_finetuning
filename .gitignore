@@ -23,8 +23,8 @@ share/python-wheels/
 MANIFEST
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-.jupyter/
+# .ipynb_checkpoints/
+# .jupyter/
 
 # PyCharm
 .idea/
