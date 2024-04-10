@@ -28,8 +28,9 @@ Fine-tuning the GPT-2 model to classify emotions in tweets. The process includes
 10. Load the saved PEFT model from local storage: **DONE**
 11. Run inference and generate text/label with the tuned model: **DONE**
 
-## Results:
-- Can be found in the notebook run 
+## Results 
+
+- Can be found in the notebook run
 - Evaluation accuracy of the foundation model on this task is 'eval_accuracy': 0.096
 - While the Evaluation accuracy of the tuned model is 'eval_accuracy': 0.9225
 - This is almost a 10x increase
